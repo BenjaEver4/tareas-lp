@@ -1,0 +1,4 @@
+no hice uso de makefile.
+Se compila con:
+gcc tarea2.c -o t2
+./t2
